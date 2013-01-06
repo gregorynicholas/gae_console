@@ -8,6 +8,9 @@
   Convenience tool to help working with the remote_api. Importing this package
   imports appengine api modules, application db models, and application config
   files.
+
+  :copyright: (c) 2012 by gregorynicholas.
+  :license: MIT, see LICENSE for more details.
 """
 import sys
 from os import path
